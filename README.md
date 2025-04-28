@@ -28,7 +28,7 @@ Each folder or notebook in this repository represents a distinct project, focusi
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/portfolio-python.git
+    git clone [https://github.com/yourusername/portfolio-python.git](https://github.com/Chanushkr/Data-Analysis-Python-Portfolio-Projects/tree/main)
     ```
 
 2. Navigate into the project folder:

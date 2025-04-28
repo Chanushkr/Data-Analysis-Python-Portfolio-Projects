@@ -33,7 +33,7 @@ Each folder or notebook in this repository represents a distinct project, focusi
 
 2. Navigate into the project folder:
     ```bash
-    cd portfolio-python
+    cd Data-Analysis-Python-Portfolio-Projects
     ```
 
 3. Install the necessary dependencies:

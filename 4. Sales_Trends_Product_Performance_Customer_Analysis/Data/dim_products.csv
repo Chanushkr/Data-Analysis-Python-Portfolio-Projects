@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,UnitPrice
+201,iPhone 13,Smartphones,799
+202,Samsung Galaxy S21,Smartphones,699
+203,MacBook Pro,Laptops,1299
+204,Dell XPS 13,Laptops,999
+205,iPad Air,Tablets,599
+206,Sony WH-1000XM4,Headphones,349
+207,Bose QC45,Headphones,329
+208,Apple Watch,Wearables,399
+209,Fitbit Charge 5,Wearables,149
+210,Amazon Echo,Smart Home,99

@@ -1,0 +1,11 @@
+CustomerID,CustomerName,Age,Gender,Region
+1001,Alice Johnson,25,Female,North
+1002,Bob Smith,34,Male,South
+1003,Charlie Lee,45,Male,East
+1004,Diana Cruz,23,Female,West
+1005,Ethan Patel,37,Male,North
+1006,Fiona Brown,52,Female,South
+1007,George White,61,Male,East
+1008,Hannah Kim,29,Female,West
+1009,Ian Wright,41,Male,North
+1010,Jane Doe,58,Female,South

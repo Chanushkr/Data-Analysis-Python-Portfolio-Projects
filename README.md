@@ -47,10 +47,6 @@ Each folder or notebook in this repository represents a distinct project, focusi
 
 Feel free to fork this repository, submit issues, or send pull requests. Contributions to enhance data analysis or add new projects are always welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Thank you for visiting my portfolio!
